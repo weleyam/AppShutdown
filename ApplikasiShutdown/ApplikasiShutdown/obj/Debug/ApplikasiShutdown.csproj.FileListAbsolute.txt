@@ -1,0 +1,8 @@
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\bin\Debug\ApplikasiShutdown.exe.config
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\bin\Debug\ApplikasiShutdown.exe
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\bin\Debug\ApplikasiShutdown.pdb
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\obj\Debug\ApplikasiShutdown.Form1.resources
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\obj\Debug\ApplikasiShutdown.Properties.Resources.resources
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\obj\Debug\ApplikasiShutdown.csproj.GenerateResource.Cache
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\obj\Debug\ApplikasiShutdown.exe
+C:\DATA\Project Latihan\ApplikasiShutdown\ApplikasiShutdown\obj\Debug\ApplikasiShutdown.pdb
